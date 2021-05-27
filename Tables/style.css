@@ -1,0 +1,30 @@
+body {
+  display: inline;
+}
+
+.main {
+  padding-top: 10%;
+  padding-left: 4%;
+}
+.Submit {
+  background-color: #10ff00;
+  border: 1px solid red;
+  border-radius: 5px;
+  height: 20px;
+  width: auto;
+}
+
+.Submit:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
+  #tab {
+      display: flexbox;
+      flex-direction: column;
+      font-size: large;
+      color: #10ff00;
+      margin-top: 30px; 
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-left: 2.3%; 
+    }
